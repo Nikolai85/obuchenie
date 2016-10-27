@@ -1,1 +1,2 @@
 print("ns")
+print("frushka gora")
