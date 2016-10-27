@@ -1,2 +1,3 @@
-print("ns1")
 print("frushka gora1")
+print("ns2")
+
