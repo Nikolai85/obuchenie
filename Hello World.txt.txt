@@ -1,2 +1,2 @@
-Print("Hello World")
-print("Hello Dinamo")
+Print("Hello World:")
+print("Hello Dinamo:")
