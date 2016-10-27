@@ -1,2 +1,2 @@
-print("ns")
-print("frushka gora")
+print("ns1")
+print("frushka gora1")
